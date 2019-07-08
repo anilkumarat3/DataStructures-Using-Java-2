@@ -24,7 +24,7 @@ public class Ds1 {
 				}
 			}
 		}
-		System.out.println("Ëntered Ranges are");
+		System.out.println("Ã‹ntered Ranges are");
 		for (int i = 0; i < 2; i++) {
 			for (int j = 0; j < 2; j++) {
 				System.out.print(range[i][j] + " ");
