@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+    http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+	<bean id="name" class="testSpring.Springtest">
+		<property name="name" value="Union Bank of India" />
+		<property name="message"
+			value="Welcome to Department of Information Technology" />
+
+	</bean>
+</beans>
